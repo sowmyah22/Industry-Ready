@@ -86,5 +86,7 @@ This command deletes the file .
 ```
 
 ```
+15. git log :
+Displays the latest commits added to stagging environment.
 
 ```
