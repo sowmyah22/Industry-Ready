@@ -60,3 +60,9 @@ This command will helps in knowing where it fetches from and pushes to the remot
 The changes made in the local repository are updates in the remote repository .
 
 ```
+
+```
+11. git clone <url of remote repo>:
+Will create a copy of the remote repository in the local system and all changes will be tracked with repect to the remote repository.
+
+```
