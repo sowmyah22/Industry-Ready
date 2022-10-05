@@ -43,26 +43,48 @@ can have many braches in a repository and this commands helps in creating a new 
 ```
 
 ```
-8. git remote add origin <remote repository url>:
+8. git checkout <branch> :
+It helps in switching to a branch .
+
+```
+
+```
+9. git remote add origin <remote repository url>:
 Helps in establishing connection with the remote repository.
 The origin variable indicates the stagging environment.
 
 ```
 
 ```
-9. git remote -v :
+10. git remote -v :
 This command will helps in knowing where it fetches from and pushes to the remote repository.
 
 ```
 
 ```
-10.git push origin main :
+11.git push origin main :
 The changes made in the local repository are updates in the remote repository .
 
 ```
 
 ```
-11. git clone <url of remote repo>:
+12. git clone <url of remote repo>:
 Will create a copy of the remote repository in the local system and all changes will be tracked with repect to the remote repository.
+
+```
+
+```
+13. git restore --staged <filename> :
+It unstages the files which is been commited .
+
+```
+
+```
+14.git rm <filename> :
+This command deletes the file .
+
+```
+
+```
 
 ```
