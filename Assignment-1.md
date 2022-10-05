@@ -96,12 +96,3 @@ This command deletes the file .
 Displays the latest commits added to stagging environment.
 
 ```
-
-```
-13. git restore --staged <filename> :
-It unstages the file which is been added to the stagging environment.
-
-```
-
-```
-14.  :
