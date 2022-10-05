@@ -43,7 +43,13 @@ can have many braches in a repository and this commands helps in creating a new 
 ```
 
 ```
-8. git checkout <branchname> :
+8. git checkout <branch> :
+It helps in switching to a branch .
+
+```
+
+```
+9. git checkout <branchname> :
 It helps to switch to the branch created .
 
 ```
@@ -70,6 +76,24 @@ The changes made in the local repository are updates in the remote repository .
 ```
 12. git clone <url of remote repo>:
 Will create a copy of the remote repository in the local system and all changes will be tracked with repect to the remote repository.
+
+```
+
+```
+13. git restore --staged <filename> :
+It unstages the files which is been commited .
+
+```
+
+```
+14.git rm <filename> :
+This command deletes the file .
+
+```
+
+```
+15. git log :
+Displays the latest commits added to stagging environment.
 
 ```
 
