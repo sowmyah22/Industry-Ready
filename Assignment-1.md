@@ -18,19 +18,20 @@ This command will configure the eamilid with respect to the remote repository .
 It configures the username with respect to the remote repository.
 
 ```
-![image]()
+![image](https://user-images.githubusercontent.com/28885876/194311359-f582629f-1c18-44a7-84bc-5e93366f5f21.png)
 ```
 4. git status :
 Gives the information as what all the changes done like added,midified and the files that needs to be committed to the stagging environment .
 
 ```
-![image](https://user-images.githubusercontent.com/28885876/194311359-f582629f-1c18-44a7-84bc-5e93366f5f21.png)
+![image]()
 ```
 5. git add <filename> :
 This command will add the file specified to the stagging environment.
 
 ```
-![image]()
+!<img width="372" alt="5 gitadd" src="https://user-images.githubusercontent.com/28885876/194312128-2438d091-a8c9-4026-982c-996feae339b7.png">
+
 ```
 6. git commit -m "commit message " :
 The changes made to the or the files been added all those changes are updated using this command.
