@@ -106,3 +106,9 @@ Displays the latest commits added to stagging environment.
 
 ```
 <img width="537" alt="15 git log" src="https://user-images.githubusercontent.com/28885876/194313705-f213bf42-d8c0-422b-a102-f1fadadbc41a.png">
+
+```
+16. git fetch :
+This command will pull all the changes made to the file in the remote repository to the local repository.
+```
+<img width="482" alt="fetch" src="https://user-images.githubusercontent.com/28885876/194317674-a35284b7-e8d3-44da-97b1-6110bbd00639.png">
