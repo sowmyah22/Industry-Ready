@@ -1,4 +1,18 @@
 # Task 1
 
 Demonstrated the basic git commands
-file name : Assignment-1.md
+* file name : Assignment-1.md
+* link : https://github.com/sowmyah22/Industry-Ready
+#############################
+
+# Task 2 
+
+* open-source project : https://github.com/sowmyah22/Project---Sensor-Fault-Detection
+* link :https://github.com/sowmyah22/Industry-Ready
+* Added 2 collaborator
+
+# Task 3
+* link :https://github.com/sowmyah22/Project---Sensor-Fault-Detection
+* Created Issue in your github repository.
+* Merged pull request
+* Denaied pull request
