@@ -32,3 +32,8 @@ list the running containers.
 6. docker stop container id:
 To stop the container which is running.
 ```
+
+```
+7. docker image rm image id:
+This command removes the specified images with respect to the mentioned by image id.
+```
