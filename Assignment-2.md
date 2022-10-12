@@ -5,5 +5,6 @@
 ### Dockers basic commands
 
 ```
+1. docker -v : checking the version of dockers.
 
 ```
