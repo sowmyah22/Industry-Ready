@@ -22,3 +22,8 @@ lists all the docker images pulled in the local system.
 4. docker run -d -p containerport:host port <image name> :
 This command runs a new docker container in detach(background)
 ```
+
+```
+5. docker ps :
+list the running containers.
+```
