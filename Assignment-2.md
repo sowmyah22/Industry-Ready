@@ -37,3 +37,12 @@ To stop the container which is running.
 7. docker image rm image id:
 This command removes the specified images with respect to the mentioned by image id.
 ```
+
+```
+8. docker network ls :
+list all the network the daemon knows about.
+```
+
+```
+9. 
+```
