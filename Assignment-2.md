@@ -8,3 +8,8 @@
 1. docker -v : checking the version of dockers.
 
 ```
+
+```
+2.docker pull <image name>:
+pull an image or repository from the registry.
+```
