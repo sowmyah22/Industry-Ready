@@ -10,6 +10,13 @@
 ```
 
 ```
-2.docker pull <image name>:
+2. docker pull <image name>:
 pull an image or repository from the registry.
+
+```
+
+```
+3. docker images :
+lists all the docker images pulled in the local system.
+
 ```
