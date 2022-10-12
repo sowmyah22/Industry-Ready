@@ -9,7 +9,7 @@
 ```
 
 ```
-2. docker pull docker/<image name>:
+2. docker pull <image name>:
 pull an image or repository from the registry.
 ```
 
@@ -19,6 +19,6 @@ lists all the docker images pulled in the local system.
 ```
 
 ```
-4. docker run -d -p containerport:host port docker/<image name> :
+4. docker run -d -p containerport:host port <image name> :
 This command runs a new docker container in detach(background)
 ```
