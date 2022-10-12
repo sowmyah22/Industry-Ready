@@ -27,3 +27,8 @@ This command runs a new docker container in detach(background)
 5. docker ps :
 list the running containers.
 ```
+
+```
+6. docker stop container id:
+To stop the container which is running.
+```
