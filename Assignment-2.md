@@ -44,5 +44,10 @@ list all the network the daemon knows about.
 ```
 
 ```
-9. 
+9. docker container logs <container id >:
+Lists the logs of the specified container .
+```
+
+```
+10.
 ```
