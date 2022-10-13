@@ -54,5 +54,10 @@ Forcefully removes the running container.
 ```
 
 ```
-11.
+11.docker login :
+This command helps in login in to the docker hub registry where we can push or pull the docker images .
+```
+
+```
+12.
 ```
