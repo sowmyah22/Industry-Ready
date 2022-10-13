@@ -72,3 +72,8 @@ This command creates new image from the existing changes made in the container.
 14. docker export --output="newdockerfile" <container id> :
 It saves the docker image specified in the local system as a tar file .
 ```
+
+```
+15. docker import <full path>:
+This command imports the docker image from the local system
+```
