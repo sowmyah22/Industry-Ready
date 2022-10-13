@@ -64,5 +64,10 @@ It kiils the container by stopping its execution immediately .
 ```
 
 ```
-13.
+13. docker commit <container id> <new image name> :
+This command creates new image from the existing changes made in the container.
+```
+
+```
+14.
 ```
