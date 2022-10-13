@@ -59,5 +59,10 @@ This command helps in login in to the docker hub registry where we can push or p
 ```
 
 ```
-12.
+12. docker kill <container id>:
+It kiils the container by stopping its execution immediately .
+```
+
+```
+13.
 ```
