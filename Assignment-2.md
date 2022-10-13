@@ -69,5 +69,6 @@ This command creates new image from the existing changes made in the container.
 ```
 
 ```
-14.
+14. docker export --output="newdockerfile.tar" <image name> :
+It saves the docker image specified in the local system as a tar file .
 ```
