@@ -87,7 +87,7 @@ It saves the docker image specified in the local system as a tar file .
 <img width="628" alt="14 export" src="https://user-images.githubusercontent.com/28885876/195696796-3d384716-3847-41c0-ab53-55aa903a0a44.png">
 
 ```
-15. do<img width="596" alt="13 comit" src="https://user-images.githubusercontent.com/28885876/195696795-09584d4a-2be4-4896-9af5-634a96bc6fa5.png">cker import <full path>:
+15. docker import <full path>:
 This command imports the docker image from the local system
 ```
 <img width="641" alt="15 import" src="https://user-images.githubusercontent.com/28885876/195696798-7ff73a4e-8b38-4636-8e42-3b34859fe5f0.png">
