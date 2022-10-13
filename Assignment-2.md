@@ -49,5 +49,10 @@ Lists the logs of the specified container .
 ```
 
 ```
-10.
+10. docker container rm -f <container id>:
+Forcefully removes the running container.
+```
+
+```
+11.
 ```
