@@ -58,8 +58,8 @@ Lists the logs of the specified container .
 <img width="914" alt="9 logs" src="https://user-images.githubusercontent.com/28885876/195696739-e8ce6a84-3f9e-4fb5-a8c6-f5955e4545e8.png">
 
 ```
-10. docker container rm -f <container id>:
-Forcefully removes the running container.
+10. docker build -t <container name>:
+Builds a docker image from the specified docker file.
 ```
 
 ```
