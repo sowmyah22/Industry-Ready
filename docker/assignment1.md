@@ -58,9 +58,10 @@ Lists the logs of the specified container .
 <img width="914" alt="9 logs" src="https://user-images.githubusercontent.com/28885876/195696739-e8ce6a84-3f9e-4fb5-a8c6-f5955e4545e8.png">
 
 ```
-10. docker build -t <container name>:
+10. docker build -t <image name> . :
 Builds a docker image from the specified docker file.
 ```
+<img width="985" alt="10 build" src="https://user-images.githubusercontent.com/28885876/196200105-a5dd537b-12dd-4d0c-b973-5dfa746dec9a.png">
 
 ```
 11.docker login :
