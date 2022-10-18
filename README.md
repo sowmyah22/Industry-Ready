@@ -6,3 +6,7 @@
 
 ### Docker folder :
 * Contains assignments of dockers
+
+### .github/workflows folder:
+* Contains the yml file for github actions
+
