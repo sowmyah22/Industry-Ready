@@ -92,3 +92,9 @@ It saves the docker image specified in the local system as a tar file .
 This command imports the docker image from the local system
 ```
 <img width="641" alt="15 import" src="https://user-images.githubusercontent.com/28885876/195696798-7ff73a4e-8b38-4636-8e42-3b34859fe5f0.png">
+
+```
+16. docker push <username/imagename:version>:
+This command pushes the docker image in the docker hub registry
+```
+<img width="939" alt="docker-push" src="https://user-images.githubusercontent.com/28885876/196421647-0ca61923-223f-421c-9af8-432eedcb74b3.png">
